@@ -2,6 +2,8 @@
 
 This repository is the course materials for *Deep Learning* at Chang Gung University, in the academic year 113 (Spring).
 
+[YouTube 播放清單](https://youtube.com/playlist?list=PL0bwsTyVtLVxwgu8TLpHtpzGc2ZQviUwD&si=dnpv7AFiT1STDG2n)
+
 ## Course Information
 | Week | Theme | Slide | Code | Slido | Video | Practice |
 | --- | --- | --- | --- | --- | --- | --- |
