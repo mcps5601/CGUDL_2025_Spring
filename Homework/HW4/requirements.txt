@@ -1,0 +1,4 @@
+transformers==4.51.3
+peft==0.15.2
+medmnist==3.0.2
+torchvision==0.22.0
