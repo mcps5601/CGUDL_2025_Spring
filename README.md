@@ -20,4 +20,4 @@ This repository is the course materials for *Deep Learning* at Chang Gung Univer
 | 11 | 強化學習 | [`.pdf`](./slides/rl_0428.pdf)  | | [`Slido`](https://app.sli.do/event/34P54svVTngUMahxmswRYR) | [`Video1`](https://youtu.be/RvsQhiSXtzs) [`Video2`](https://youtu.be/Pn9JrZYAefE) [`Video3`](https://youtu.be/yU9gsqlA7Ac) |
 | 12 | 模型壓縮 | [`.pdf`](./slides/compression_0505.pdf) [`.pptx`](./slides/compression_0505.pptx)  | [`quantization`](./code/quantization.ipynb) | [`Slido`](https://app.sli.do/event/vV1nYv83dETgHRS1vRheNF) | [`Video1`](https://youtu.be/Qqyo9U2JRBQ) [`Video2`](https://youtu.be/luBa01XYoBc) [`Video3`](https://youtu.be/dpE6LyIGU9w) |
 | 13 | 大模型時代如何有效率訓練模型？ | [`.pdf`](./slides/PEFT_0512.pdf) [`.pptx`](./slides/PEFT_0512.pptx) [`HW4`](https://docs.google.com/presentation/d/1rRIHWqNyT0Au-7aYKyriMoItZuipwlZNQnxwtDHfcH0/edit?usp=sharing) | [`HW4`](./Homework/HW4/main_HW4.ipynb) | [`Slido`](https://app.sli.do/event/cRjqz3yNgs1DX5pXDPme4x)|
-| 14 | 可解釋性人工智慧 |  | | [`Slido`](https://app.sli.do/event/cycgBVEss7VM6RsFJixqLt)|
+| 14 | 可解釋性人工智慧 |  | [`CAM`](./code/CAM/) | [`Slido`](https://app.sli.do/event/cycgBVEss7VM6RsFJixqLt)|
